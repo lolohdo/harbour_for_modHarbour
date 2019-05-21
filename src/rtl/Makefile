@@ -221,6 +221,7 @@ PRG_SOURCES := \
    adir.prg \
    alert.prg \
    altd.prg \
+   apache.prg \
    browdb.prg \
    browse.prg \
    cdpdet.prg \
